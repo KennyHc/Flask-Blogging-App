@@ -1,0 +1,31 @@
+
+
+
+body {
+  width: 150%;
+  height: 150vh;
+  color: rgba(17, 24, 75, 0.824);
+  box-sizing: content-box;
+  background: linear-gradient(-45deg, rgb(117, 127, 233),rgba(16, 222, 191, 0.824), rgb(143, 104, 235));
+  background-size: 800% 800%;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+
+h1 {
+  background-color: linear-gradient(to right, rgb(34, 130, 213) , rgb(9, 152, 162));
+}
+
+.rcorners {
+  border-radius: 25px;
+  background: #fff;
+  padding: 20px;
+}
+
+div {
+  resize: both;
+  overflow: auto;
+  position: relative;
+}
+  
